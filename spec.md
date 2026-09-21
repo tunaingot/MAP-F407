@@ -65,3 +65,7 @@
 |再生の制御|後優先|
 |再生停止|STOP|
 |将来拡張|A、B、C|
+
+<div align="right">
+[トップへ戻る](README.md)
+</div>
