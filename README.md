@@ -1,4 +1,7 @@
 # MAP-F407の概要
+<p align="center">
+<img width="800" src="images/front.png" />
+</p>
 **AUDIO & MIDI PLAYER MAP-F407**はWAVファイル、Standard MIDI Fileの再生専用機で、以下のような機能があります。
 
 - フロントパネルの操作でファイル選択・再生・停止
